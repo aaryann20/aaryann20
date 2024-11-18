@@ -60,11 +60,11 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryann20&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryann20&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryann20&show_icons=true&locale=en&theme=graywhite" alt="GitHub Stats" height="180" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryann20&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="Top Languages" height="180" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryann20" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryann20&theme=graywhite" alt="GitHub Streak" />
 </p>
 
 ---
