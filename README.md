@@ -1,29 +1,38 @@
 <h1 align="center">Hi 👋, I'm Aaryan Soni</h1>
 <h3 align="center">A Passionate Java Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://final-fortfolio-website.vercel.app/about-pic.png" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryann20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
-
----
-
-- 👨‍💻 **Explore My Projects**: [Portfolio Website](https://final-fortfolio-website.vercel.app/#experience)  
-- 📄 **Read About My Experiences**: [Experience Section](https://final-fortfolio-website.vercel.app/#experience)  
-- ⚡ **Fun Fact**: I have a keen interest in **Finance**.  
-
----
-
-<h3 align="left">🌐 Connect With Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/aaryan-soni" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/aaryannn20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/soniaaryan2020" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/soniaaryxiq7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0078D7&center=true&width=500&lines=Java+Enthusiast+%7C+Web+Developer;Love+to+Explore+and+Learn+New+Technologies;Welcome+to+my+GitHub+Universe!" alt="Typing SVG">
 </p>
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaryann20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://final-fortfolio-website.vercel.app/about-pic.png" />
+
+---
+
+### 🛠 **About Me**
+- 👨‍💻 **Explore My Projects**: [Portfolio Website](https://final-fortfolio-website.vercel.app/#experience)  
+- 📄 **Read About My Experiences**: [Experience Section](https://final-fortfolio-website.vercel.app/#experience)  
+- ⚡ **Fun Fact**: I have a keen interest in **Finance**.
+
+---
+
+### 🌐 **Connect With Me**
+<p align="left">
+  <a href="https://linkedin.com/in/aaryan-soni" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://instagram.com/aaryannn20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+  <a href="https://www.leetcode.com/soniaaryan2020" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/soniaaryxiq7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" /></a>
+</p>
+
+---
+
+### 💻 **Languages and Tools**
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
@@ -49,7 +58,23 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryann20&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryann20&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryann20&" alt="GitHub Streak" /></p>
+### 📊 **GitHub Stats**
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryann20&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryann20&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryann20" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎯 **Fun Projects**
+- **Delivery Route Planner Website**: Implemented a comprehensive delivery route planner using APIs and real-time map functionalities. 
+- **E-commerce Website**: A responsive e-commerce platform using HTML, CSS, and JavaScript.
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aaryann20/aaryann20/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+</p>
