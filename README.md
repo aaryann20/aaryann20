@@ -73,8 +73,4 @@
 - **Delivery Route Planner Website**: Implemented a comprehensive delivery route planner using APIs and real-time map functionalities. 
 - **E-commerce Website**: A responsive e-commerce platform using HTML, CSS, and JavaScript.
 
----
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aaryann20/aaryann20/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</p>
