@@ -24,10 +24,18 @@
 
 ### 🌐 **Connect With Me**
 <p align="left">
-  <a href="https://linkedin.com/in/aaryan-soni" target="_blank"><img align="center" src="https://www.linkedin.com/in/aaryan-soni2004/" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://instagram.com/aaryannn20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
-  <a href="https://www.leetcode.com/soniaaryan2020" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/soniaaryxiq7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/aaryan-soni2004/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/aaryannn20" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/soniaaryan2020" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/soniaaryxiq7" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="40" width="40" />
+  </a>
 </p>
 
 ---
@@ -72,5 +80,3 @@
 ### 🎯 **Fun Projects**
 - **Delivery Route Planner Website**: Implemented a comprehensive delivery route planner using APIs and real-time map functionalities. 
 - **E-commerce Website**: A responsive e-commerce platform using HTML, CSS, and JavaScript.
-
-
