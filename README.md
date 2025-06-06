@@ -59,7 +59,7 @@
   
   <!-- Cloud & DevOps -->
   <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
- 
+   <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   
   <!-- Tools -->
