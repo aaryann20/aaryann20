@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=aaryann20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://final-fortfolio-website.vercel.app/about-pic.png" />
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/16o7IyfiinqmDTYnOOoCkGTOr8UkiwUHJ/view?usp=sharing" />
 
 ---
 
