@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaryan Soni</h1>
 <h3 align="center">A Passionate Java Developer from India</h3>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0078D7&center=true&width=500&lines=Java+Enthusiast+%7C+Cloud+Computing;Love+to+Explore+and+Learn+New+Technologies;Welcome+to+my+GitHub+Universe!" alt="Typing SVG">
 </p>
